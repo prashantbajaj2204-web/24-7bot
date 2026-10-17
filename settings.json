@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "luffysmp.mcsh.io",
+    "ip": "163.5.201.3:14675",
     "port": 14675,
     "version": "1.20.1",
     "try-creative": false
