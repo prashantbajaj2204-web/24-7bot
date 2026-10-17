@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "luffysmp.mcsh.io",
-    "port": 14675,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
